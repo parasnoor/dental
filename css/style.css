@@ -1,0 +1,96 @@
+.container{
+    height: 200vh;
+    width: 98vw;
+    
+}
+h1{
+    text-align: center;
+font-size: 50px;
+color: rgb(151, 149, 149);
+font-family:Georgia, 'Times New Roman', Times, serif
+}
+.navbar ul{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.navbar ul li{
+    list-style: none;
+
+}
+
+.navbar ul li a{
+    color: rgb(32, 202, 202);
+}
+.box1{
+    height: 15vh;
+    width: 98vw;
+font-size: xx-large;
+display: flex;
+ justify-content: center; 
+align-items: center;
+background-image: linear-gradient(rgb(0, 153, 255),gray);
+}
+.box2{
+    flex-direction: row;
+    height: 90vh;
+    width: 98vw;
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+.box3{
+    height:90vh ;
+    width: 28vw;
+background-color: rgb(203, 156, 247);
+border-radius: 15px;
+text-align: center;
+}
+
+
+
+.box4{
+    height:100vh ;
+    width: 32vw;
+background-color: rgb(250, 169, 204);
+border-radius: 15px;
+text-align: center;
+
+}
+.box4 h2{
+    text-align: center;
+    }
+
+.box5{
+    height:90vh ;
+    width: 28vw;
+background-color: rgb(238, 143, 245);
+border-radius: 15px;
+}
+.box5 h2{
+    text-align: center;
+    }
+    input{
+        width: 23vw;
+        height: 6vh;
+    }
+
+.box6{
+    width: 40vw;
+    height: 50vh;
+        background-image: url(./bg.jpg);
+        background-repeat: no-repeat;
+        color:rgb(38, 139, 139);
+    }
+    .box8{ flex-direction: row;
+    height: 40vh;
+    width: 85vw;
+    display: flex;
+    text-justify: inter-cluster;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+    
+   
+    
